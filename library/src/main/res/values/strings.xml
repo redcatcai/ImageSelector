@@ -3,7 +3,7 @@
 
     <string name="minnum">At least one photo</string>
     <string name="maxnum">Max %1$d Photos</string>
-    <string name="all_images">All Images</string>
+    <string name="all_images">All Photos</string>
     <string name="sd_disable">SDCard is unavailable</string>
 
     <string name="image">Photos</string>
